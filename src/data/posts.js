@@ -1,0 +1,1 @@
+// posts.js content here
